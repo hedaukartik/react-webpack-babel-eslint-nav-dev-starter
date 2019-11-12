@@ -7,3 +7,7 @@
 3. **Install Node Packages.** - `npm install`
 4. **Install [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) and [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)** in Chrome. 
 5. **Run App-** - `npm start`
+
+![alt text](https://github.com/hedaukartik/react-webpack-babel-eslint-nav-dev-starter/blob/master/1.PNG)
+
+![alt text](https://github.com/hedaukartik/react-webpack-babel-eslint-nav-dev-starter/blob/master/2.PNG)
